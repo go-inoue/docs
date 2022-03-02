@@ -403,7 +403,7 @@ excerpt_separator: "\n\n"
 
 # URL configuration
 
-home: "http://universaldependencies.org/"
-tracker: "https://github.com/universaldependencies/docs/issues"
-git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
-git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"
+home: "https://go-inoue.github.io/docs/"
+tracker: "https://github.com/go-inoue/docs/issues"
+git_raw: "https://raw.githubusercontent.com/go-inoue/docs/pages-source"
+git_edit: "https://github.com/go-inoue/docs/edit/pages-source"
